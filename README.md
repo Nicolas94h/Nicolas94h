@@ -1,2 +1,3 @@
 # Nicolas94h
-See what I can find.
+Hey there, it's Nicoals.
+I want to collect some codes here.
